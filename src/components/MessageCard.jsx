@@ -13,19 +13,49 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `My sweet baby girl, 
+  
+  Blessed 20th birthday chellam!! 
 
-Your personalized birthday message goes here.
+  You are one incredibly intelligent, beautiful, witty and graceful young girl.
+  One I'm beyond grateful to call my sister and bestest friend. You're my most trusted confidiant, 
+  and the person that makes me laugh the loudest. 
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+  As Esther, you carry yourself with the kind of courage that people can only hope to one day emulate. 
+  The kind that wavers at nothing and takes everything in stride. The kind that urges others to follow in 
+  pursuit. 
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+  As Rose, you blossom ever so brightly, enrapturing everyone you encounter with your charming smile and 
+  even brighter personality. You have a talent for disarming even the most guarded and uniting everyone.
 
-Happy Birthday! 🎉
+  As Joy, you have brought me-and all the others you've so much as crossed paths with-so much happiness with
+  every interaction. You truly emulate the fruit of the Holy Spirit in everything you do, may the joy of the
+  Lord continue to be your strength. 
 
-— [Your Name]`;
+  As Angel, you've consistently been a bearer of good news and a fierce protector. I know I can always count 
+  on my babes to have my back, even when you have no clue whats going on--lol so many throwbacks huh! 
+  
+  Thank you for being a blessing to me my love. 
+
+  May God open for you the windows of heaven, and pour out for you such blessing that there will not be enough 
+  room to receive it. May He cause His face to shine upon you, and enlarge your tent. May you never lack any 
+  good thing all the days of your life. May you bear fruits in and out of season, never perturbed by external 
+  conditions, and always securuly connected to the true vine. May nations shall come to your light, and kings 
+  to the brightness of your rising.
+
+  It is my prayer that God continues to use you for His glory my love. May you forever be a vessel He takes 
+  pride in using.
+
+  May this new decade usher in blessings like never before, and may this season come with more impact for the 
+  glory of God and God alone. 
+
+  I love you more than I'll ever be able to express with my actions or words. 
+
+  Blessed 20th my sweeting hearting :)
+
+  Love from your DebiDebi❤️
+  
+  `;
 
   // Handle page transitions
   useEffect(() => {
