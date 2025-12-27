@@ -186,7 +186,7 @@ function MessageCard({ isActive }) {
 
   return (
     <section className="message">
-      <h2>💌 A Message From My Heart</h2>
+      <h2>💌 A Message to my BabyGirl</h2>
 
       <div className="curtain-container">
         <div className="curtain-rod"></div>
