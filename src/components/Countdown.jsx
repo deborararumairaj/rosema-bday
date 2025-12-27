@@ -76,7 +76,7 @@ function Countdown({ onBirthdayReached, birthdayReached }) {
       <section className="countdown">
         <div className="flip-timer">
           <span className="birthday-celebration">
-            🎉 It's Your Birthday! 🎉
+            🎉 It's my special girl's Birthday! 🎉
           </span>
         </div>
       </section>
