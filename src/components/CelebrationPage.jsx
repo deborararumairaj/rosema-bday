@@ -38,13 +38,13 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
       text: "Do you wanna see what I made??",
       type: "question",
       options: [
-        { text: "Yes!", value: "yes" },
-        { text: "No", value: "no" },
+        { text: "YES OFCOURSE!", value: "yes" },
+        { text: "yes?", value: "no" },
       ],
     },
     {
       icon: "✨",
-      text: "Have a look at it, Madam Jiii",
+      text: "Well..your wish is my command ma précieuse reine",
       type: "announcement",
     },
   ];
