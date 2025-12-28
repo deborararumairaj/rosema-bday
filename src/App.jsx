@@ -119,7 +119,7 @@ He will make a pathway through the wilderness.
         <section className="teaser">
           <h2 id="teaserHeading">
             {birthdayReached
-              ? "💖 Ready to celebrate? 💖"
+              ? "Welcome to the young adults club babes🥳"
               : "Welcome to the young adults club babes🥳"}
           </h2>
           <p className="teaser-hint"> </p>
