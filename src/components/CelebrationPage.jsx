@@ -44,7 +44,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
     },
     {
       icon: "🥰",
-      text: "Well..your wish is my command ma précieuse reine",
+      text: "Well...your wish is my command my love",
       type: "announcement",
     },
   ];
