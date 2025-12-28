@@ -120,9 +120,9 @@ He will make a pathway through the wilderness.
           <h2 id="teaserHeading">
             {birthdayReached
               ? "💖 Ready to celebrate? 💖"
-              : "Crazy to think my baby girl is no longer a teen! Welcome to the young adults club babes"}
+              : "Welcome to the young adults club babes"}
           </h2>
-          <p className="teaser-hint">Well we're doing it with a twist this year, Gen Z style</p>
+          <p className="teaser-hint"> </p>
         </section>
 
         <button
@@ -131,7 +131,7 @@ He will make a pathway through the wilderness.
           disabled={!birthdayReached}
           onClick={() => goToPage(2)}
         >
-          🎀 Let's Celebrate
+          🎀 Ready to celebrate Gen Z style? 
         </button>
       </div>
 
