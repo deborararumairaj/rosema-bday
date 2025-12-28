@@ -30,20 +30,20 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
   const slides = [
     {
       icon: "✨",
-      text: "It's Your Special Day Yeyey!",
+      text: "To celebrate your special day (virtually) we're gonna do something special",
       type: "announcement",
     },
     {
-      icon: "✨",
-      text: "Do you wanna see what I made??",
+      icon: "😉",
+      text: "Do you wanna how?",
       type: "question",
       options: [
         { text: "YES OFCOURSE!", value: "yes" },
-        { text: "yes?", value: "no" },
+        { text: "Duhh I do!!", value: "yes" },
       ],
     },
     {
-      icon: "✨",
+      icon: "🥰",
       text: "Well..your wish is my command ma précieuse reine",
       type: "announcement",
     },
