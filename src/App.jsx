@@ -108,7 +108,7 @@ function App() {
           <p>The Lord is about to do something new in your life this decade.
     See, He has already begun! Do you not see it?
 He will make a pathway through the wilderness.
-    He will create rivers in the dry wasteland.💗</p>
+    He will create rivers in the dry wasteland! </p>
         </section>
 
         <Countdown
@@ -119,10 +119,10 @@ He will make a pathway through the wilderness.
         <section className="teaser">
           <h2 id="teaserHeading">
             {birthdayReached
-              ? "💖 Ready for your surprise! 💖"
-              : "I'm SUPER excited to celebrate you, we gotta wait till midnight tho😁"}
+              ? "💖 Ready to celebrate? 💖"
+              : "Crazy to think my baby girl is no longer a teen! Welcome to the young adults club babes"}
           </h2>
-          <p className="teaser-hint">We're doing it with a twist this year, Gen Z style</p>
+          <p className="teaser-hint">Well we're doing it with a twist this year, Gen Z style</p>
         </section>
 
         <button
