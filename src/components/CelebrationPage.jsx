@@ -308,7 +308,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
               </div>
             ) : (
               <button className="next-button" onClick={handleNext}>
-                {currentSlide < slides.length - 1 ? "Next" : "Let's Go! 🎉"}
+                {currentSlide < slides.length - 1 ? "Sounds interesting.." : "Aww you're the best ever Deb! Let's Go! 🎉"}
               </button>
             )}
           </div>
@@ -332,9 +332,9 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
         <>
           {/* Buttons Section - At the TOP */}
           <div className="celebration-buttons">
-            <h2 className="celebration-title">Let's Celebrate! 🎉</h2>
+            <h2 className="celebration-title">Time to Partayyy 🎉</h2>
             <p className="celebration-subtitle">
-              Click the buttons to decorate
+              But before that...
             </p>
 
             <div className="buttons-grid">
@@ -345,7 +345,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                   data-button="lights"
                   onClick={() => handleButtonClick("lights")}
                 >
-                  💡 Turn On the Lights
+                  💡 We need some disco lights
                 </button>
               )}
 
@@ -356,7 +356,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                   data-button="music"
                   onClick={() => handleButtonClick("music")}
                 >
-                  🎵 Play Music
+                  🎵 And of course some music and a cake! 
                 </button>
               )}
 
@@ -367,7 +367,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                   data-button="decorate"
                   onClick={() => handleButtonClick("decorate")}
                 >
-                  🎨 Decorate
+                  🪅 Seems to be missing some decorations
                 </button>
               )}
 
@@ -378,7 +378,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                   data-button="balloons"
                   onClick={() => handleButtonClick("balloons")}
                 >
-                  🎈 Fly the Balloons
+                  🎈 and ofcourse the helium balloons 
                 </button>
               )}
 
@@ -389,7 +389,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
                   data-button="message"
                   onClick={() => handleButtonClick("message")}
                 >
-                  💌 Well, I Have a Message for You Madam Ji
+                  💌And now's the special part, a message from meee
                 </button>
               )}
             </div>
