@@ -96,16 +96,19 @@ function App() {
           <h1 id="heroTitle">
             {birthdayReached ? (
               <>
-                Happy Birthday <span className="highlight">[Name]</span> 🎂
+                Blessed Birthday <span className="highlight">Rosema</span> 🎂
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">[Name]'s</span>{" "}
-                special day 🎂
+                Counting down to <span className="highlight">Rosema's</span>{" "}
+                20th! 🎂
               </>
             )}
           </h1>
-          <p>Your personalized message goes here 💗</p>
+          <p>The Lord is about to do something new in your life this decade.
+    See, He has already begun! Do you not see it?
+He will make a pathway through the wilderness.
+    He will create rivers in the dry wasteland.💗</p>
         </section>
 
         <Countdown
@@ -117,9 +120,9 @@ function App() {
           <h2 id="teaserHeading">
             {birthdayReached
               ? "💖 Ready for your surprise! 💖"
-              : "✨ A special celebration awaits you at midnight... ✨"}
+              : "I'm SUPER excited to celebrate you, we gotta wait till midnight tho😁"}
           </h2>
-          <p className="teaser-hint">Something magical is about to unfold 💫</p>
+          <p className="teaser-hint">We're doing it with a twist this year, Gen Z style</p>
         </section>
 
         <button
@@ -170,8 +173,8 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">💖 Forever Yours — [Your Name] 💖</h2>
-          <p className="final-subtitle">Your personalized closing message ✨</p>
+          <h2 className="final-message">❤️ I love you sweetheart ❤️</h2>
+          <p className="final-subtitle">Jesus loves you the most ;)</p>
         </section>
       </div>
 
