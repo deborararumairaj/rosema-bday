@@ -30,7 +30,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
   const slides = [
     {
       icon: "✨",
-      text: "To celebrate your this day (virtually) we're gonna do something special",
+      text: "To celebrate your day (virtually) we're gonna do something special",
       type: "announcement",
     },
     {
