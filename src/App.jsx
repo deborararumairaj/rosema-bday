@@ -158,7 +158,7 @@ He will make a pathway through the wilderness.
         </button>
         <MessageCard isActive={currentPage === 3} />
         <button className="page-nav-btn" onClick={() => goToPage(4)}>
-          📸 View Our Memories
+          📸 Let's take a trip down memory lane? 
         </button>
       </div>
 
