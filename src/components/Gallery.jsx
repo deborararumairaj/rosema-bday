@@ -139,7 +139,7 @@ function Gallery({ isActive }) {
 
   return (
     <section className="gallery">
-      <h2>📸 A trip down memory lane</h2>
+      <h2>💕I'll always be by your side my love</h2>
       <div className="photos">
         {photos.map((photo, index) => (
           <img
